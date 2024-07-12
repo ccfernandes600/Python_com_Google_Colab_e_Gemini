@@ -1,4 +1,7 @@
-# Tutorial Google Colab: Do Básico ao Avançado para Programadores Python (Parte 1)
+
+   # Tutorial Google Colab: Do Básico ao Avançado para Programadores Python (Parte 1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ccfernandes600/Python_com_Google_Colab_e_Gemini/blob/main/Python_com_Google_Colab_do_zero.ipynb)
+
 
 ## Introdução ao Python Básico com Google Colab: **Sua Jornada de Programação Começa Aqui!**
 Seja bem-vindo(a) ao mundo da programação Python! Este tutorial foi criado especialmente para você que está dando os primeiros passos nessa linguagem versátil e poderosa. Aqui, você aprenderá os conceitos fundamentais do Python de forma prática e interativa, utilizando o ambiente do Google Colab, uma ferramenta online que facilita a escrita e execução de código Python sem a necessidade de instalações complexas.
