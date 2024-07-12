@@ -64,5 +64,7 @@ Prepare-se para embarcar em uma jornada emocionante no mundo da programação Py
 
 
 # Tutorial Google Colab: Do Básico ao Avançado para Programadores Python (Parte 2)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ccfernandes600/Python_com_Google_Colab_e_Gemini/blob/main/Python_com_Google_Colab_do_zero.ipynb)
+
 
 
